@@ -4,9 +4,9 @@
 - Game Name: Stuck in the Oblivion
 - Team Name: Dev-Clan
 - Team Members :
+-  * Madhav
    * Mohit Gupta
    * Granth Choudhary
-   * Madhav
    * Prasanna Patil
    * Gautam Bansal
    * Devang Kumawat
